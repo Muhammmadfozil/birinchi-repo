@@ -1,0 +1,20 @@
+h1{
+
+    width: max-content;
+    color: #0000ff;
+    background-color: black;
+    border: 20px double red;
+    border-radius: 10px;
+}
+
+.btn {
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 2px;
+    transition: 0.2s linear;
+  }
+  .btn:hover {
+    background-color: rgb(14, 89, 14);
+    border-radius: 0px;
+  }

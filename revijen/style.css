@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;500;600;700;800&display=swap");
+
+body {
+  background: #e3eef8;
+
+  
+}
+
+body * {
+    margin: 0;
+    font-family: "Karla", sans-serif;
+}
+
+.navbar {
+  padding: 0 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+.navbar div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  
+}
+
+.navbar button {
+  background-color: transparent;
+  border: 3px solid #258aff;
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: #258aff;
+  
+}
+
+.p1{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: #858c94;
+}
+
+h1{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+h5{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.input{
+width: 200px;
+height: 40px;
+margin-left: 570px;
+
+}
+.btn{
+  width: 160px;
+  height: 45px;
+  background-color: #fc593a;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+}
+
+div p {
+  color: #858c94;
+
+}
+
+
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 200px;
+}

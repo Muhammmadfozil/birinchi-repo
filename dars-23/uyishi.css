@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(232, 235, 242);
+}
+
+h1 {
+  color: rgb(179, 182, 189);
+  text-align: center;
+}
+
+.otani-otasi {
+  border: 5px solid rgb(232, 235, 242);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ota {
+  width: 900px;
+  height: 250px;
+  background-color: rgb(255,255,255);
+  margin-bottom: 500px;
+
+}
+

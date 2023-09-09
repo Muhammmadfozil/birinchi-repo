@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 40px;
+}
+
+
+
+
+.conteyner {
+    border: 2px solid black;
+    width: 250px;
+    text-align: center;
+    padding: 30px 20px;
+  }
+  .btn {
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    width: 100%;
+    font-size: 24px;
+    padding: 10px 0;
+    font-weight: 100;
+  }
+  
+  
+  .instagram {
+    border: none;
+    background-color: #ff64c6;
+    color: white;
+  }
+  .instagram .btn {
+    background-color: white;
+    color: #ff64c6;
+}

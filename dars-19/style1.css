@@ -1,0 +1,17 @@
+/* h1 {
+  text-transform: capitalize;
+  text-transform: uppercase;
+  text-transform: lowercase;
+  
+  
+} */
+
+div {
+  margin: 300px;
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  border-radius: 1000px;
+  box-shadow: -20px -20px 15px red, 20px 20px 15px red, -20px 35px 15px green,
+    35px -20px 15px green;
+}

@@ -1,0 +1,20 @@
+.ota {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  right: 100px;
+}
+.child {
+  background-color: blanchedalmond;
+  width: 100px;
+  height: 100px;
+  right: 100px;
+  right: 100px;
+}
+.main{
+    position: relative;
+    width: 800px;
+    height: 500px;
+    background-color: aquamarine;
+}

@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+.home {
+  width: 100%;
+}
+.car {
+  position: absolute;
+  top: 590px;
+  right: 235px;
+}
+
+.bed {
+   position: absolute;
+  top: 230px;
+  right: 1088px;
+}
+
+.tualet{
+  position: absolute;
+  top: 278px;
+  right: 810px;
+}
+
+.tv{
+  position: absolute;
+  top: 274px;
+  right: 495px;
+}
+
+.kitchen{
+  position: absolute;
+  top: 504px;
+  right: 1010px;
+
+}
+
+.lesnitsa{
+  position: absolute;
+  top: 515px;
+  right: 494px;
+}

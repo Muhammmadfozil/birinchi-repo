@@ -1,0 +1,51 @@
+.icon {
+    color: rgb(3, 48, 184);
+}
+.btn1 {
+    border-radius: 5px;
+    border: 2px solid #070799;
+    background-color: white;
+    color:#070799 ;
+    padding: 10px 30px;
+    font-size: 30px;
+}
+
+.icon2 {
+    color: rgb(184, 3, 3);
+}
+.btn2 {
+    border-radius: 5px;
+    border: 2px solid #ff1616;
+    background-color: white;
+    color:#990707 ;
+    padding: 10px 30px;
+    font-size: 30px;
+}
+
+.icon3 {
+    color: rgb(185, 3, 179);
+}
+.btn3 {
+    border-radius: 5px;
+    border: 2px solid #ff16f7;
+    background-color: white;
+    color:#99077e ;
+    padding: 10px 30px;
+    font-size: 30px;
+}
+
+
+.bajarildi{
+    text-decoration: line-through;
+    color: green;
+
+}
+
+.bajarilmadi {
+    text-decoration:line-through;
+    color: red;
+
+}
+i {
+    margin-left: 10px;
+}

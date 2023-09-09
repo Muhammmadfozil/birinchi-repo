@@ -1,0 +1,27 @@
+.conteyner {
+  width: 250px;
+  border: 1px solid #0003;
+  border-radius: 20px;
+}
+.img-container {
+  border-radius: 10px;
+  background-color: #006ff9;
+  width: max-content;
+  padding: 5px;
+}
+
+.conteyner2 {
+  width: 250px;
+  border: 1px solid blue;
+  border-radius: 20px;
+  background-color: blue;
+  color: white;
+  
+}
+.img-container2 {
+  border-radius: 10px;
+  width: max-content;
+  padding: 10px;
+  background-color: white;
+  margin: 5px;
+}

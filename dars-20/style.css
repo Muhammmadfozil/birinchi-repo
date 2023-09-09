@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: "Rubik", sans-serif;
+}
+p {
+  font-family: "Rubik", sans-serif;
+  font-size: 35px;
+  font-weight: lighter;
+  text-align: end;
+  margin: 0;
+}
+
+div {
+  height: 300px;
+  width: 300px;
+  background: skyblue;
+}

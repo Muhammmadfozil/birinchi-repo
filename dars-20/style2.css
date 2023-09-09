@@ -1,0 +1,31 @@
+div{
+    height: 500px;
+    width: 500px;
+    
+    background: green;
+    border: solid red;
+    text-align: center;
+    
+    
+   
+}
+img { 
+    border-radius: 100%;
+    padding: 30px;
+    
+}
+button {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 50px;
+    
+}
+
+h1 {
+    color: white;
+    padding: 10px;
+}
+p {
+    color: white;
+}

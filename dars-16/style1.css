@@ -1,0 +1,12 @@
+ .btn {
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 2px;
+    transition: 0.2s linear;
+  }
+  .btn:hover {
+    background-color: rgb(89, 14, 14);
+    border-radius: 0px;
+  
+  }
